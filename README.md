@@ -6,9 +6,10 @@ vs code
 node js
 angular cli
 npm
-mongoDB in localhost
+mongoDB in localhost.
 if trying to connect mysql then mysql server is also needed.
 
 # Steps 
--First download this project
+-First download this project.
+Install nodemon globally using npm install -g nodemon.
 -Run npm i to download all dependancies (using cli)
